@@ -4584,14 +4584,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\pruebaTecnicaProductos\\pruebaTecnicaProductos\\pruebaTecnicaProductos.csproj",
+      "projectUniqueName": "C:\\Users\\LuisMarin\\Desktop\\productos\\pruebaTecnicaProductos\\pruebaTecnicaProductos.csproj",
       "projectName": "pruebaTecnicaProductos",
-      "projectPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\pruebaTecnicaProductos\\pruebaTecnicaProductos\\pruebaTecnicaProductos.csproj",
+      "projectPath": "C:\\Users\\LuisMarin\\Desktop\\productos\\pruebaTecnicaProductos\\pruebaTecnicaProductos.csproj",
       "packagesPath": "C:\\Users\\LuisMarin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\pruebaTecnicaProductos\\pruebaTecnicaProductos\\obj\\",
+      "outputPath": "C:\\Users\\LuisMarin\\Desktop\\productos\\pruebaTecnicaProductos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\pruebaTecnicaProductos\\pruebaTecnicaProductos\\NuGet.Config",
+        "C:\\Users\\LuisMarin\\Desktop\\productos\\pruebaTecnicaProductos\\NuGet.Config",
         "C:\\Users\\LuisMarin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
