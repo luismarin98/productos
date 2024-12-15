@@ -1,0 +1,32 @@
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.deps.json
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\bin\Debug\net9.0\productos.Domain.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\bin\Debug\net9.0\productos.Domain.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.csproj.AssemblyReference.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.AssemblyInfoInputs.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.AssemblyInfo.cs
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.csproj.CoreCompileInputs.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.sourcelink.json
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\producto.12207C99.Up2Date
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\refint\productos.Application.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Application\obj\Debug\net9.0\ref\productos.Application.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.deps.json
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\bin\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\bin\Debug\net9.0\productos.Domain.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\bin\Debug\net9.0\productos.Domain.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.csproj.AssemblyReference.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.AssemblyInfoInputs.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.AssemblyInfo.cs
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.csproj.CoreCompileInputs.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.sourcelink.json
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\producto.12207C99.Up2Date
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\refint\productos.Application.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Application\obj\Debug\net9.0\ref\productos.Application.dll

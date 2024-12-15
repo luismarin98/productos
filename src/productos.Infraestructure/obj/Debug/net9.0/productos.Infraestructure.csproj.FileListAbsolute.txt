@@ -1,0 +1,40 @@
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.deps.json
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.runtimeconfig.json
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Domain.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Domain.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.AssemblyInfo.cs
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.sourcelink.json
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\producto.6729C41E.Up2Date
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\refint\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.pdb
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.genruntimeconfig.cache
+C:\Users\LuisMarin\Desktop\productos\src\productos.Infraestructure\obj\Debug\net9.0\ref\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.deps.json
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.runtimeconfig.json
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Infraestructure.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Application.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Domain.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Application.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\bin\Debug\net9.0\productos.Domain.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.AssemblyInfo.cs
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.sourcelink.json
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\producto.6729C41E.Up2Date
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\refint\productos.Infraestructure.dll
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.pdb
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\productos.Infraestructure.genruntimeconfig.cache
+C:\Users\LuisMarin\Desktop\Proyecto BG\productos\src\productos.Infraestructure\obj\Debug\net9.0\ref\productos.Infraestructure.dll

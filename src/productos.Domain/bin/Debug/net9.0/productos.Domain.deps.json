@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "productos.Domain/1.0.0": {
+        "dependencies": {
+          "modelo_canonico": "1.0.1"
+        },
+        "runtime": {
+          "productos.Domain.dll": {}
+        }
+      },
+      "modelo_canonico/1.0.1": {
+        "runtime": {
+          "lib/net9.0/modelo_canonico.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "productos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "modelo_canonico/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KPOizEqMPUllnQ8VMG8cBEaq0OeRTpP5GgYN/CeaL1MkQVvuEGz9k9q7pKFxLwTbHcsyAQIv8TMgbW0QEtOGig==",
+      "path": "modelo_canonico/1.0.1",
+      "hashPath": "modelo_canonico.1.0.1.nupkg.sha512"
+    }
+  }
+}
