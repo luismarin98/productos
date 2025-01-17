@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj": {}
+    "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj": {
+    "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj",
+        "projectUniqueName": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj",
         "projectName": "productos.Domain",
-        "projectPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj",
+        "projectPath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\productos.Domain.csproj",
         "packagesPath": "C:\\Users\\LuisMarin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\obj\\",
+        "outputPath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LuisMarin\\AppData\\Roaming\\NuGet\\NuGet.Config"

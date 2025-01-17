@@ -3065,14 +3065,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\productos.Api.csproj",
+      "projectUniqueName": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\productos.Api.csproj",
       "projectName": "productos.Api",
-      "projectPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\productos.Api.csproj",
+      "projectPath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\productos.Api.csproj",
       "packagesPath": "C:\\Users\\LuisMarin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\obj\\",
+      "outputPath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\NuGet.Config",
+        "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Api\\NuGet.Config",
         "C:\\Users\\LuisMarin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3085,8 +3085,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Infraestructure\\productos.Infraestructure.csproj": {
-              "projectPath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Infraestructure\\productos.Infraestructure.csproj"
+            "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Infraestructure\\productos.Infraestructure.csproj": {
+              "projectPath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Infraestructure\\productos.Infraestructure.csproj"
             }
           }
         }

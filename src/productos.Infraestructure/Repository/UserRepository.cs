@@ -45,9 +45,9 @@ public class UserRepository : IUsuarioContract
         try
         {
             _logger.LogInformation("Finaliza metodo repository");
-            if (string.IsNullOrEmpty(type.Username) || string.IsNullOrEmpty(type.Password)) throw new ArgumentException("Variable sin datos validos");
+            if (string.IsNullOrEmpty(type.Username) || string.IsNullOrEmpty(type.Password)) return false;
             ClienteModel? model = await _context.cliente.Where(x => x.Username!.Contains(type.Username) && x.Password!.Contains(type.Password)).FirstOrDefaultAsync();
-            if (model is not null) _logger.LogInformation("Datos similares encontrados");
+            if (model is not null) return false;
 
             _context.cliente.Add(ParsingCliente.ModelToType(type));
             await _context.SaveChangesAsync();

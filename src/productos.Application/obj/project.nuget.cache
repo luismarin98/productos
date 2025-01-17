@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vrtkp9zlj1g=",
+  "dgSpecHash": "dr84tTtDHIk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Application\\productos.Application.csproj",
+  "projectFilePath": "c:\\Users\\LuisMarin\\Desktop\\Proyecto BG\\productos\\src\\productos.Application\\productos.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LuisMarin\\.nuget\\packages\\modelo_canonico\\1.0.1\\modelo_canonico.1.0.1.nupkg.sha512"
   ],

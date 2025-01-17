@@ -25,9 +25,9 @@ public class PorductoRepository : IProductosContract
         try
         {
             _logger.LogInformation("Inicia Metodo Repository");
-            if (productoType is null) _logger.LogInformation("Sin datos en la variable");
+            if (productoType is null) return false;
             ProductoModel? model = await _context.producto.Where(x => x.Nombre!.Contains(productoType!.Nombre!)).FirstOrDefaultAsync();
-            if (model is not null) _logger.LogInformation("Ya existe un producto similar con esas caracteristicas");
+            if (model is not null) return false;
             _context.producto.Add(ParsingProducto.ModelToType(productoType));
             await _context.SaveChangesAsync();
 
@@ -50,7 +50,7 @@ public class PorductoRepository : IProductosContract
         {
             _logger.LogInformation("Inicia Metodo Repository");
             ProductoModel? model = await _context.producto.Where(x => x.Id == id).FirstOrDefaultAsync();
-            if (model is null) _logger.LogInformation("No existe un producto similar con esas caracteristicas");
+            if (model is null) return false;
             _context.producto.Remove(model!);
             await _context.SaveChangesAsync();
 
@@ -113,8 +113,19 @@ public class PorductoRepository : IProductosContract
         {
             _logger.LogInformation("Inicia Metodo Repository");
             ProductoModel? model = await _context.producto.Where(x => x.Id == productoType.Id).FirstOrDefaultAsync();
-            if (model is null) _logger.LogInformation("No existe un producto similar con esas caracteristicas");
-            model = ParsingProducto.ModelToType(productoType);
+            if (model is null) return false;
+            
+            // Update properties of the existing model
+            model.Nombre = productoType.Nombre;
+            model.Estado = productoType.Estado;
+            model.Precio = productoType.Precio;
+            model.FechaCreacion = productoType.FechaCreacion;
+            model.FechaVencimiento = productoType.FechaVencimiento;
+            model.Imagen = productoType.Imagen;
+            model.Peso = productoType.Peso;
+            model.DatosAuditoria = productoType.DatosAuditoria;
+            // ...update other properties as needed...
+
             _context.producto.Update(model);
             await _context.SaveChangesAsync();
 
